@@ -1,0 +1,20 @@
+body{  
+background-color:rgb(127, 255, 187) ; 
+background-image: url( https://www.freevector.com/uploads/vector/preview/40728/vecteezy_Pink_Background_ir1020_generated.jpg  );
+}
+p{  
+    color: black;
+}
+
+#texto-acrilicas{  
+    color: black;
+}
+
+#texto-tradicional{ 
+    color: black;
+    
+}
+
+footer{
+    background-color: aqua;
+} 
